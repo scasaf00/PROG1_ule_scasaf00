@@ -8,3 +8,14 @@ hoja - https://dle.rae.es/?id=KYSU0CJ
 barco - https://dle.rae.es/?id=54Gx7OV
 esquijama - https://dle.rae.es/?id=Gh1WKf5
 perno - https://dle.rae.es/?id=Sgqljhw
+
+dron https://dle.rae.es/?id=ED2QqnQ
+monitor https://dle.rae.es/?id=PecCzoV|PecPfIO
+consola https://dle.rae.es/?id=AQNzGKu
+terminal https://dle.rae.es/?id=ZYm7znz
+archivador https://dle.rae.es/?id=3SkGR1g
+virtual https://dle.rae.es/?id=buDJhh3
+repositorio https://dle.rae.es/?id=W3mzJyE
+armario https://dle.rae.es/?id=3ap5M5M
+maneta https://dle.rae.es/?id=OBIpq8F
+tija https://dle.rae.es/?id=ZjxdiyK
